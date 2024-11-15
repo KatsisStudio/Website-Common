@@ -5,7 +5,11 @@ html {
     min-height: 100vh; */
 }
 
-.footer {
+body > .footer {
     padding-top: 1em;
     padding-bottom: 1em;
+}
+
+a > i:hover {
+    color: white;
 }
